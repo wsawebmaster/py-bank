@@ -8,9 +8,21 @@
 
 ### 📋 Sistema Bancário com Python
 
+Desafio 1: 
+
 - [x] Saque
 - [x] Depósito
 - [x] Extrato
+
+Desafio 2: Adicionado mais opções e implementado o uso de funções
+
+- [x] Saque
+- [x] Depósito
+- [x] Extrato
+- [x] Criar nova conta
+- [x] Criar novo usuário
+- [x] Listar Usuários
+
 
 ---
 ---
